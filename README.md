@@ -1,2 +1,2 @@
-# amitsv26.github.io
+# amitgupta.github.io
 Portfolio Website
